@@ -1,0 +1,1 @@
+This repository demonstrates a race condition in PHP file access and its solution using file locking. The `bug.php` file showcases the flawed code, while `bugSolution.php` provides a corrected version using flock() for file locking.
